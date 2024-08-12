@@ -2,3 +2,18 @@
     background-color: hsl(0, 60%, 70%);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#number2{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.odds.middlechild{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: hsl(120, 60% , 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
